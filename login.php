@@ -47,10 +47,12 @@ echo "<strong>Incorrect username/password</strong>";
 <tr>
 <td>Username</td>
 <td><input type="textbox" name="userBox">
+  echo "";
 </tr>
 <tr>
 <td>Password</td>
 <td><input type="password" name="passBox">
+  echo "";
 </tr>
 <tr>
 <td></td>
