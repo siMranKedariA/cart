@@ -31,4 +31,4 @@ REFERENCES
 5.	Run the project on the browser (tested on chrome, firefox).
 
 
-
+6.Update changes on README
